@@ -1,0 +1,3 @@
+/mnt/c/users/rache/onedrive/documents/testing/build/CMakeFiles/testing.dir
+/mnt/c/users/rache/onedrive/documents/testing/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/rache/onedrive/documents/testing/build/CMakeFiles/rebuild_cache.dir
